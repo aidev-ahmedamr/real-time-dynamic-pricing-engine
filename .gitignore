@@ -236,3 +236,11 @@ mlruns/
 .streamlit/
 
 .DS_Store
+
+
+__pycache__/
+*.pyc
+data/raw/*.csv
+data/processed/*.csv
+models/*.pkl
+.env
